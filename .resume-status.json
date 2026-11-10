@@ -1,0 +1,8 @@
+{
+  "outcome": "succeeded",
+  "fix_type": "transient",
+  "resume_from": "test-ui",
+  "message": "Pipeline resumed from test-ui and finished.",
+  "log": "projects/SweetCandyDrops/.resume-20261109-174452.log",
+  "attempted_at_epoch": 1794250416
+}

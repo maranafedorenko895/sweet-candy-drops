@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sweet Candy Drops</string>
+    <string name="app_title">SWEET CANDY DROPS</string>
+    <string name="app_version">VERSION 1.0</string>
+
+    <string name="play">PLAY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="start">START</string>
+    <string name="resume">RESUME</string>
+    <string name="claim">CLAIM</string>
+    <string name="claimed">CLAIMED</string>
+    <string name="locked">LOCKED</string>
+    <string name="open_label">OPEN</string>
+    <string name="cancel">CANCEL</string>
+    <string name="switch_on">ON</string>
+    <string name="switch_off">OFF</string>
+
+    <string name="splash_subtitle">A SUGAR ROUTE ADVENTURE</string>
+    <string name="splash_loading">LOADING SWEETS</string>
+
+    <string name="menu_cta_hint">ONE TAP PER LANE · THREE JELLY HEARTS</string>
+    <string name="menu_hero_kicker">ROUTE OF THE DAY</string>
+    <string name="menu_hero_hint">SCOOP THE SWEETS · DODGE THE SOUR BOMBS</string>
+    <string name="menu_fresh_title">FIRST ROUTE AWAITS</string>
+    <string name="menu_fresh_hint">FINISH A ROUTE TO FILL YOUR STAT TILES</string>
+    <string name="daily_challenge">DAILY CHALLENGE</string>
+    <string name="hub_progress">PROGRESS</string>
+    <string name="hub_rewards">REWARDS</string>
+    <string name="hub_collection">CANDIES</string>
+    <string name="hub_settings">SETTINGS</string>
+
+    <string name="game_segment">SEGMENT %1$d/%2$d</string>
+    <string name="game_multiplier">x%1$d</string>
+    <string name="game_tap_to_begin">TAP A LANE TO BEGIN</string>
+    <string name="game_board_loading">PREPARING THE ROUTE</string>
+    <string name="pickup_points">+%1$d</string>
+    <string name="lives_state">%1$d of %2$d hearts left</string>
+
+    <string name="pause_title">ROUTE PAUSED</string>
+    <string name="pause_message">The candy route is waiting. Resume the run or head back to the hub.</string>
+
+    <string name="result_complete">ROUTE COMPLETE</string>
+    <string name="result_failed">OUT OF TREATS</string>
+    <string name="result_subline">%1$s · SEGMENT %2$d/%3$d</string>
+    <string name="result_best">BEST SCORE SO FAR: %1$d</string>
+    <string name="new_best">NEW BEST SCORE</string>
+    <string name="coins_earned">+%1$d SUGAR COINS EARNED</string>
+
+    <string name="stat_score">SCORE</string>
+    <string name="stat_treats">TREATS</string>
+    <string name="stat_best_combo">BEST COMBO</string>
+    <string name="stat_best_score">BEST SCORE</string>
+    <string name="stat_routes_done">ROUTES DONE</string>
+    <string name="stat_total_score">TOTAL SCORE</string>
+    <string name="stat_sugar_coins">SUGAR COINS</string>
+
+    <string name="daily_title">DAILY ROUTE</string>
+    <string name="daily_subtitle">ONE FRESH CANDY ROUTE EVERY DAY</string>
+    <string name="daily_target">REACH %1$d POINTS</string>
+    <string name="daily_progress">%1$d / %2$d POINTS</string>
+    <string name="daily_today_only">TODAY ONLY</string>
+    <string name="daily_empty">NO ROUTE YET · COME BACK SOON</string>
+    <string name="day_sun">SUN</string>
+    <string name="day_mon">MON</string>
+    <string name="day_tue">TUE</string>
+    <string name="day_wed">WED</string>
+    <string name="day_thu">THU</string>
+    <string name="day_fri">FRI</string>
+    <string name="day_sat">SAT</string>
+
+    <string name="progress_title">PROGRESS</string>
+    <string name="progress_subtitle">YOUR SUGAR ROUTE SO FAR</string>
+    <string name="progress_empty">NO RUNS YET · FINISH A ROUTE TO FILL THIS PAGE</string>
+    <string name="route_ladder">ROUTE LADDER</string>
+    <string name="personal_best">PERSONAL BEST</string>
+
+    <string name="rewards_title">REWARDS</string>
+    <string name="rewards_subtitle">UNLOCK TIERS BY FINISHING ROUTES</string>
+    <string name="reward_requirement">NEEDS %1$d ROUTES</string>
+
+    <string name="collection_title">COLLECTION</string>
+    <string name="collection_subtitle">CANDY FRIENDS YOU HAVE MET</string>
+    <string name="collection_count">%1$d/%2$d COLLECTED</string>
+    <string name="collection_hidden">STILL WRAPPED</string>
+    <string name="collection_unlock">NEEDS %1$d TREATS</string>
+
+    <string name="settings_title">SETTINGS</string>
+    <string name="settings_subtitle">TUNE YOUR SUGAR ROUTE</string>
+    <string name="setting_sound">SOUND CUES</string>
+    <string name="setting_haptics">HAPTIC FEEDBACK</string>
+    <string name="setting_big_candy">BIG CANDY MODE</string>
+    <string name="setting_reduced_motion">REDUCED MOTION</string>
+    <string name="reset_progress">RESET PROGRESS</string>
+    <string name="reset_title">RESET PROGRESS</string>
+    <string name="reset_message">This clears every score, treat and unlocked candy friend.</string>
+    <string name="reset_confirm">RESET</string>
+    <string name="compliance_note">VIRTUAL PROGRESS ONLY · NO REAL MONEY</string>
+
+    <string name="cd_logo">Sweet Candy Drops emblem</string>
+    <string name="cd_hero">Gummy bear hero</string>
+    <string name="cd_treat">Swirl lollipop treat</string>
+    <string name="cd_bonus">Jelly heart bonus</string>
+    <string name="cd_hazard">Sour bomb hazard</string>
+    <string name="cd_booster">Rainbow candy booster</string>
+    <string name="cd_lane">Move to lane %1$d</string>
+    <string name="cd_move_left">Move left</string>
+    <string name="cd_move_right">Move right</string>
+    <string name="cd_pause">Pause route</string>
+    <string name="cd_home">Back to menu</string>
+    <string name="cd_score">Score %1$d</string>
+    <string name="cd_treats_total">Treats collected %1$d</string>
+</resources>
